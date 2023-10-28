@@ -7,7 +7,7 @@ This is a temporary script file.
 
 
 
-input_assignement=input("select assignment: ")
+input_assignement=input("select assignment number: ")
 
 if input_assignement=="1":
     top=float(input("enter the top  "))
